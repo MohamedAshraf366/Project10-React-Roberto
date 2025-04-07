@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Project10-React-Roberto/static/css/main.09d179d7.css",
-    "main.js": "/Project10-React-Roberto/static/js/main.563f1b5c.js",
-    "static/js/488.086a1777.chunk.js": "/Project10-React-Roberto/static/js/488.086a1777.chunk.js",
+    "main.js": "/Project10-React-Roberto/static/js/main.8fe90a11.js",
+    "static/js/488.00711ca4.chunk.js": "/Project10-React-Roberto/static/js/488.00711ca4.chunk.js",
     "static/media/fa-solid-900.ttf": "/Project10-React-Roberto/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
     "static/media/fa-brands-400.ttf": "/Project10-React-Roberto/static/media/fa-brands-400.1815e00441357e01619e.ttf",
     "static/media/fa-solid-900.woff2": "/Project10-React-Roberto/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
@@ -15,11 +15,11 @@
     "static/media/fa-v4compatibility.woff2": "/Project10-React-Roberto/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
     "index.html": "/Project10-React-Roberto/index.html",
     "main.09d179d7.css.map": "/Project10-React-Roberto/static/css/main.09d179d7.css.map",
-    "main.563f1b5c.js.map": "/Project10-React-Roberto/static/js/main.563f1b5c.js.map",
-    "488.086a1777.chunk.js.map": "/Project10-React-Roberto/static/js/488.086a1777.chunk.js.map"
+    "main.8fe90a11.js.map": "/Project10-React-Roberto/static/js/main.8fe90a11.js.map",
+    "488.00711ca4.chunk.js.map": "/Project10-React-Roberto/static/js/488.00711ca4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.09d179d7.css",
-    "static/js/main.563f1b5c.js"
+    "static/js/main.8fe90a11.js"
   ]
 }
